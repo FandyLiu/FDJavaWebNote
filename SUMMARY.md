@@ -8,5 +8,6 @@
 * [HTML 与 CSS 网页开发基础](html__css/README.md)
 * [JavaScripe 脚本语言](javascripe/README.md)
 * [Establish system develop environment](establish_system_develop_environment/README.md)
-   * [lessson0](establish_system_develop_environment/lessson0)
+   * [lessson0](establish_system_develop_environment/lessson0.md)
+   * [Tomcat](establish_system_develop_environment/tomcat.md)
 
