@@ -9,7 +9,7 @@ B/S 是 Brower/Server 的缩写
 
 两者的比较
 
-![Brower/Server](imgs/compare.png)
+![](imgs/compare.png)
 
 
 
