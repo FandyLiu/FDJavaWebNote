@@ -18,4 +18,7 @@
    * [request对象](c_jsp/request.md)
    * [response对象](c_jsp/response.md)
    * [session对象](c_jsp/session.md)
+   * [application对象](c_jsp/application.md)
+   * [out对象](c_jsp/out.md)
+   * [Other内置对象](c_jsp/other.md)
 
