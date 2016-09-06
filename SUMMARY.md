@@ -13,4 +13,6 @@
    * [Eclipse使用](establish_system_develop_environment/eclipse.md)
 * [JSP基础语法](jsp/README.md)
    * [lesson 指令标识](jsp/lesson.md)
+   * [lesson1 动作标识](jsp/lesson1.md)
+* [c_jsp内置对象](c_jsp/README.md)
 
