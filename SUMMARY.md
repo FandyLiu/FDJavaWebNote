@@ -10,4 +10,7 @@
 * [Establish system develop environment](establish_system_develop_environment/README.md)
    * [lessson0](establish_system_develop_environment/lessson0.md)
    * [Tomcat](establish_system_develop_environment/tomcat.md)
+   * [Eclipse使用](establish_system_develop_environment/eclipse.md)
+* [JSP基础语法](jsp/README.md)
+   * [lesson 指令标识](jsp/lesson.md)
 
