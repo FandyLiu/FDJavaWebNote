@@ -15,4 +15,7 @@
    * [lesson 指令标识](jsp/lesson.md)
    * [lesson1 动作标识](jsp/lesson1.md)
 * [c_jsp内置对象](c_jsp/README.md)
+   * [request对象](c_jsp/request.md)
+   * [response对象](c_jsp/response.md)
+   * [session对象](c_jsp/session.md)
 
