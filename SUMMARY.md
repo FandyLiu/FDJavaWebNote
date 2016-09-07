@@ -21,4 +21,7 @@
    * [application对象](c_jsp/application.md)
    * [out对象](c_jsp/out.md)
    * [Other内置对象](c_jsp/other.md)
+* [javaBean](javabean/README.md)
+   * [javaBean介绍](javabean/javabean.md)
+   * [b_javaBean应用](javabean/b_javabean.md)
 
